@@ -22,21 +22,27 @@ What emotions or sentiments do her eyes convey?
 
 **Personality.** Introverted or extroverted. Sensing or intuitive. Thinking or feeling. Perceiving or judging. Maturity.
 
-**Alignment.** Good or evil? Lawful or chaotic?
+**Alignment.** 
+
+* Hero, Antivillain, Neutral, Antihero, Villain.
+
+* Strongly Lawful, Weakly Lawful, Neutral, Weakly Chaotic, Strongly Chaotic.
+
+* Strongly Good, Weakly Good, Neutral, Weakly Evil, Strongly Evil.
 
 **Questions:**
 
-What place does she seek in the world? Does she want to change it? How does she want to change it?
+What place does he/she seek in the world? Does he/she want to change his/her place in the world? How does he/she want to change his/her place in the world?
 
-Where does she live? 
+Where does he/she live? 
 
-How does she feel about her appearance?
+How does he/she feel about her appearance?
 
-What does she feel about marriage, family and children?
+What does he/she feel about marriage, family and children?
 
-How does she feel about the opposite sex and gender roles?
+How does he/she feel about the opposite sex and gender roles?
 
-What are her hobbies?
+What are his/her hobbies?
 
 What types of friends does she have? 
 
