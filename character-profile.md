@@ -2,31 +2,91 @@
 
 ## Tangibles
 
-**Face:** Eyes, nose, chin, cheeks.
+### Build
+
+- Height.
+- Leg length.
+- Leg thickness.
+- Armspan.
+- Arm length.
+- Musculature.
+- Hands: Size, shape.
+- Feet: Size, shape, length of nails. 
+- Hips: Size, shape, length of nails. 
+- Sexual organs.
+- Body hair: color/density.
+
+Indications of ethnicity.
+
+### Face
+
+**Eyes.** Irises, scleras, bloodshot/diseased, distinctive defects or features.
+
+**Nose.** Size, shape, indication of ethnicity. 
+
+Was it modified? Does it show evidence of damage (accidental or deliberate)? Was it deliberately modified? Piercings?
+
+**Other features:** Chin, cheeks, eyebrows (shape/color).
 
 What can we learn about the character from the face--history, age, occupation, social/economic characteristics?
 
 What emotions or sentiments do her eyes convey?
 
-**Head:** Hair, ears.
+### Head
+
+Hair, ears.
 
 **Hair** Length. Shape (straight, stringy or curly). Oily or dry. Clean or dirty.
 
 Short hair generally indicates grooming for low maintenance, while long hair takes much more effort to maintain.
 
-**Skin:** Skin color/tone/darkness. Suppleness/roughness. Visible scars. Deliberate modifications such as tattoos.
+### Skin
+
+Skin color/tone/darkness. Suppleness/roughness. Visible scars. 
+
+Ethnicity indicated by skin color.
 
 Is it the soft skin of a pampered man/woman or the rough skin of a blue-collar worker? 
 
 Does it indicate any disease or pathological abnormality?
 
+
+### Accidental Modifications
+
+- Scars. 
+- Missing limbs.
+
+What do the accidental modifications indicate? 
+
+- Mutilation (pure accidence).
+- Involvement in fighting or war. 
+- Instrument of modification (gun, knife, etc.)
+
+### Deliberate Modifications
+
+Scars from surgery.
+
+Tattoos, piercings, branding, plastic surgery, augmentations/reductions, etc.
+
+Manicures/pedicures. Length and decoration of nails.
+
+What do the deliberate modifications indicate? 
+* Family members.
+* Membership in gangs or societies.
+* Favorite quotes.
+* "Spirit animals."
+* Marks of ethnicity.
+
 What do the deliberate modifications tell us about the character? 
 
-**Body type and build:** Height. Weight. 
+### Weight
+
+Obesity/anorexia.
 
 What does the body type say about the character (eating habits, activity level, general health)?
 
 Is the character satisfied with the state of his body? If not, what are they doing to change it?
+
 
 ## Intangibles
 
@@ -47,6 +107,41 @@ Is the character satisfied with the state of his body? If not, what are they doi
 Does the character conform to styles for his age group or occupation? 
 
 What is the character's motivation for conforming or not conforming?
+
+Preferences in color of clothing.
+
+Preferences in style of clothing.
+
+Does the person dress for business, leisure, etc?
+
+Contradiction in clothing preference between the person's sex and the gender indicated by the clothing.
+
+Style of shoes.
+
+Choices in jewelry.
+
+Accomplishments indicated by jewelry:
+* Marriage.
+* Sports accomplishments.
+* Graduation from high school or college.
+* Membership in an elite society or mafia.
+
+Necklaces.
+
+Pendants.
+
+Use of accessories (gloves, cufflinks, etc.)
+
+Choices in neckties.
+* Colors, shades and patterns.
+* Specific decorations.
+
+Use of uniforms.
+* Sports.
+* Government (police, judicial).
+* Medical.
+* Military.
+
 
 ## Questions
 
