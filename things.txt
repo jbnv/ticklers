@@ -1,0 +1,63 @@
+abacus
+airplane
+alien
+apple (fruit)
+arrow
+bed (sleeping)
+bee (insects, stinging)
+book
+bridge
+bug/insect
+building/city
+cane (infirmity, disability)
+car, truck, van
+castle
+cell phone (communication)
+clock (time)
+cloud (weather)
+computer/laptop/pad
+dice (games)
+dish (eating)
+dragon
+eye (sight)
+fish
+flash/bolt
+flashlight (light)
+flower
+foot
+fork
+fountain (water)
+hand
+head
+house
+key (security)
+key/lock
+letter (alphabet, language)
+letter/mail
+lightbulb (light)
+magnet
+magnifying glass (mystery)
+monster
+moon (nighttime)
+padlock (security)
+parachute
+pen, pencil (writing)
+pill
+playing card (games)
+pot (cooking)
+pyramid
+question mark
+rainbow (weather)
+scales (justice, law)
+sheep
+shoe
+shooting star
+sink, lavatory (cleaning)
+spoon
+teepee/tent (camping, outdoors)
+theater/comedy/tragedy/drama
+toilet
+tree
+turtle
+wand (magic)
+world/globe/Earth
